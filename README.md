@@ -26,4 +26,4 @@ The repository is organized as follows:
 - `detection_interface.py`: contains the code for the web application that allows users to input a URL and receive a prediction from the model.
 - `Written_Report.pdf`: documentation for the project, as well as a detailed analysis of our findings
 
--  NO LONGER INCLUDED: `malicious_phish.csv`: contains the raw and preprocessed data used in the project
+- `malicious_phish.csv`: contains the raw and preprocessed data used in the project - not included due to file size
