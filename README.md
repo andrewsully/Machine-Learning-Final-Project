@@ -24,6 +24,7 @@ The repository is organized as follows:
 
 - `malicious_phish.csv`: contains the raw and preprocessed data used in the project
 
-- `Detecting_malicious_URLs.ipynb`: contains the trained machine learning models and scripts for training and tuning them.
+- `notebook.ipynb`: contains the trained machine learning models and scripts for training and tuning them (Former Name: Detecting_malicious_URLs.ipynb).
 - `detection_interface.py`: contains the code for the web application that allows users to input a URL and receive a prediction from the model.
 - `Written_Report.pdf`: documentation for the project, as well as a detailed analysis of our findings
+
